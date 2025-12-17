@@ -1,0 +1,4 @@
+[tools]
+gemini = "latest"
+gemini-cli = "latest"
+node = "latest"

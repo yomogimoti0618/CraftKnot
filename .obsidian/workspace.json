@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "ce71feb96c4a78d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "022ee9a4d360a6ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ef9719df584c621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commercial Manager Pitch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commercial Manager Pitch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bf08918b61e4309",
+    "type": "split",
+    "children": [
+      {
+        "id": "d06ce66fd4476e20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b11b7331c4b3918b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "fc2bcdd70471aae4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          },
+          {
+            "id": "01cbc76a5191e14d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b55cced4d9e36a4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "022b03fd0ddcd887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ef868cfebe9616e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "craft knot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "craft knotへのバックリンク"
+            }
+          },
+          {
+            "id": "53eb8b14c83dd88b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "craft knot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "craft knotからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "b3bc4ced9bb9321d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "73823e96403b6376",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "1eddffdfb5a8555d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "craft knot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "craft knotのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0ef9719df584c621",
+  "lastOpenFiles": [
+    "README.md",
+    "CTO Pitch.md",
+    "CEO Pitch.md",
+    "無題のファイル 1.base",
+    "無題のファイル.base",
+    "craft knot.md",
+    "artisans.md",
+    "enthusiasts.md",
+    "enthusiants/trust.md",
+    "Artisan/Management tools.md",
+    "Artisan/Portfolio showcase.md",
+    "Artisan/progress tracking.md",
+    "Artisan/Standardization Order Template.md",
+    "Artisan/guaranteed payment system.md",
+    "enthusiants/Real-time Production Updates.md",
+    "enthusiants/Seamless Communication.md",
+    "enthusiants/Niche Community Access.md",
+    "enthusiants/Authenticity Certificate.md",
+    "enthusiants",
+    "Artisan",
+    "Welcome.md"
+  ]
+}

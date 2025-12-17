@@ -1,38 +1,26 @@
-# CTO's Pitch Script
-_（日本語訳：CTOのピッチスクリプト）_
+# CTO Pitch Script (Easy English Ver.)
+_（日本語訳：CTOピッチスクリプト（簡易単語バージョン））_
 
-**(Start: After the Commercial Manager's part)**
-_（日本語訳：開始：商業マネージャーのパートの後）_
+**(Start: After the CEO's introduction)**
+_（日本語訳：開始：CEOの紹介の後）_
 
-Thank you, [Your Name].
-_（日本語訳：[あなたの名前]さん、ありがとうございます。）_
+Thank you. I'm [CTO's Name], the Chief Technology Officer. You've heard about the problem. Now, I'll explain how our technology solves it in a way that is simple, safe, and easy for everyone to use. We had to think about the user's journey, step by step.
+_（日本語訳：ありがとうございます。技術責任者の[CTOの名前]です。問題についてはお聞きいただけたかと思います。次に、私たちの技術がそれをいかにシンプルで、安全で、誰もが使いやすい方法で解決するかをご説明します。私たちは、ユーザーの体験を一つ一つのステップに沿って考え抜く必要がありました。）_
 
-You've heard the vision from our CEO, and the market strategy from our Commercial Manager. My name is [CTO's Name], and I'm the CTO at Craft Knot. My job is to build the technology that makes this entire ecosystem possible, reliable, and secure.
-_（日本語訳：CEOからビジョンを、そして商業マネージャーから市場戦略を聞いていただきました。私の名前は[CTOの名前]、Craft KnotのCTOです。私の仕事は、このエコシステム全体を可能にし、信頼でき、安全なものにする技術を構築することです。）_
+First, the biggest worry is about money. It's scary to pay a lot of money to a stranger online. So, our first job was to build a system for **Secure Payment**. We use a system called 'escrow'. It works like a safe box. The buyer puts the money into our safe box. The artisan can see the money is there, so they can start working without worry. We keep the money safe until the job is finished. This is our [[guaranteed payment system]].
+_（日本語訳：まず、最大の問題はお金です。オンラインで見知らぬ人に大金を支払うのは怖いものです。ですから、私たちの最初の仕事は「安全な支払い」のシステムを構築することでした。私たちは「エスクロー」という仕組みを使います。これは金庫のようなものです。買い手は私たち金庫にお金を入れます。職人はお金がそこにあるのを確認できるので、安心して仕事を始めることができます。私たちは仕事が終わるまで、そのお金を安全に保管します。これが私たちの「[[guaratnteed payment system|支払い保証システム]]」です。）_
 
-Our philosophy is simple: technology should be an invisible enabler. It should empower our users—both artisans and enthusiasts—without ever getting in their way. We are building a robust, scalable, and secure platform on a modern cloud infrastructure.
-_（日本語訳：私たちの哲学はシンプルです。テクノロジーは、邪魔になることなく、目に見えない形で力を与えるべきだ、というものです。私たちは、職人とマニア、両方のユーザーを力づける、堅牢でスケーラブル、かつ安全なプラットフォームを、最新のクラウドインフラ上に構築しています。）_
+Second, after paying, buyers get nervous. "Is the artisan really working on my project?" To solve this, we created a **Transparent Production Process**. Artisans can easily post photos and simple updates, like "I got the rare wood for your guitar inlay today!" or "I have started hand-stitching the cosplay costume." The buyer sees these [[Real-time Production Updates]] on their phone. They can watch their special item being born, whether it's a piece of pottery taking shape, a custom kitchen knife being forged, or an intricate Japanese doll getting its final touches. This builds excitement and trust. It's all part of our [[progress tracking]] tool.
+_（日本語訳：次に、支払った後、買い手は不安になります。「職人は本当に私のプロジェクトに取り組んでいるのだろうか？」と。これを解決するために、私たちは「透明な製作プロセス」を作りました。職人は「今日、あなたのギターインレイ用の珍しい木材を手に入れました！」とか「コスプレ衣装の手縫いを始めました」といった簡単な更新情報と写真を投稿できます。買い手はこれらの「[[Real-time Production Updates|リアルタイム更新]]」を自分のスマートフォンで見ることができます。陶器が形になる様子、カスタム包丁が鍛造される過程、あるいは精巧な日本人形が最終仕上げされる様子など、自分の特別なアイテムが生まれるのを見守ることができるのです。これは興奮と信頼を築きます。これら全てが私たちの「[[progress tracking|進捗追跡]]」ツールの一部です。）_
 
-Let me briefly walk you through the key technological pillars that deliver the value we've been talking about.
-_（日本語訳：私たちが話してきた価値を、どのように技術が実現しているのか、その主要な柱を簡単にご紹介します。）_
+Third, communication can be difficult. Especially with different languages. We created a **Seamless Communication** hub. It's a simple chat system inside our app. All conversations about a project are in one place. No more lost emails. For the future, we are developing an automatic translation feature, so a user in America can easily talk to an artisan in Japan.
+_（日本語訳：第三に、コミュニケーションは難しいことがあります。特に言語が違うと。私たちは「[[Seamless Communication|シームレスなコミュニケーション]]」ハブを作りました。これはアプリ内のシンプルなチャットシステムです。プロジェクトに関するすべての会話が1か所にまとまります。もうメールがなくなることはありません。将来的には、自動翻訳機能を開発しており、アメリカのユーザーが日本の職人と簡単に話せるようになります。）_
 
-1.  **Trust & Security Engine:** Trust is our most important feature. This is powered by our **[[guaranteed payment system]]**. It's a fully-secured escrow system that protects both parties and ensures financial transactions are safe and transparent.
-    _（日本語訳：**信頼と安全のエンジン**：信頼は私たちの最も重要な機能です。これを支えるのが「[[guaranteed payment system|支払い保証システム]]」です。これは双方を保護し、金融取引が安全かつ透明であることを保証する、完全に保護されたエスクローシステムです。）_
+Finally, people want to know their item is real. So, we created a system for a digital **Authenticity Certificate**. When a piece is finished, our system creates a special certificate with a unique ID, a photo of the item, and the artisan's name. This proves the item is real and tells its story. It protects the item's value for the future.
+_（日本語訳：最後に、人々は自分のアイテムが本物であることを知りたがります。そこで、私たちはデジタルの「[[Authenticity Certificate|オーセンティシティ証明書]]」のシステムを作りました。作品が完成すると、私たちのシステムがユニークなID、作品の写真、職人の名前が入った特別な証明書を作成します。これは、そのアイテムが本物であることを証明し、その物語を伝えます。それは将来にわたってアイテムの価値を守ります。）_
 
-2.  **The Transparency Suite:** To connect the maker and the patron, we've developed a suite of tools for transparency. The **[[progress tracking]]** tool allows artisans to post updates, which are then delivered to the buyer as **[[Real-time Production Updates]]**. This entire journey is logged, creating a story for every piece. All of this is managed through our **[[Seamless Communication]]** hub.
-    _（日本語訳：**透明性スイート**：作り手と買い手を繋ぐため、私たちは透明性のためのツール群を開発しました。「[[progress tracking|進捗追跡]]」ツールで職人が更新を投稿すると、それが「[[Real-time Production Updates|リアルタイム製作状況更新]]」として買い手に届きます。この全行程が記録され、一つ一つの作品に物語が生まれます。そして、これらすべてが「[[Seamless Communication|シームレスなコミュニケーション]]」ハブを通じて管理されます。）_
+Our technology is here to build trust at every step. Now, our Commercial Manager will explain who will use this platform.
+_（日本語訳：私たちの技術は、あらゆる段階で信頼を築くためにあります。では次に、商業マネージャーが、誰がこのプラットフォームを使うのかを説明します。）_
 
-3.  **Digital Identity & Legacy System:** Every piece created through Craft Knot is an important cultural asset. Our system generates a unique, verifiable **[[Authenticity Certificate]]** for each item. This digital identity is stored immutably on our platform, securing the item's history and value for the future.
-    _（日本語訳：**デジタルアイデンティティと遺産システム**：Craft Knotを通じて作られたすべての作品は、重要な文化的資産です。私たちのシステムは、各アイテムに対してユニークで検証可能な「[[Authenticity Certificate|オーセンティシティ証明書]]」を生成します。このデジタルアイデンティティは、プラットフォーム上に不変のものとして保存され、未来に向けてアイテムの歴史と価値を保護します。）_
-
-### Our Future Roadmap
-_（日本語訳：私たちの将来のロードマップ）_
-
-We are not stopping here. We are already planning the next generation of features to enhance the Craft Knot experience:
-*   **AI-Powered Discovery:** We will use machine learning to help enthusiasts discover artisans whose work truly matches their aesthetic tastes.
-*   **AR/VR Showcases:** In the future, we envision an Augmented Reality feature that allows a buyer to preview a piece in their own home before commissioning it.
-
-Our technology is built to be not just functional, but also to honor the human connection at the heart of our mission. We are creating a platform that is as beautifully crafted as the items sold on it.
-
-Thank you. We are now happy to answer any questions you may have.
-_（日本語訳：私たちの技術は、機能的であるだけでなく、私たちの使命の中心にある人間的な繋がりを尊重するために作られています。私たちは、そこで売られるアイテムと同じくらい美しく作られたプラットフォームを創造しています。ありがとうございました。それでは、皆様からのご質問にお答えします。）_
+**(Hand-off to Commercial Manager)**
+_（日本語訳：商業マネージャーへ引き継ぎ）_

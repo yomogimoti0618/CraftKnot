@@ -1,91 +1,59 @@
-# Commercial Manager's Pitch Script
-_（商業マネージャーのピッチスクリプト）_
+# Commercial Manager Pitch Script (Easy English Ver.)
+_（日本語訳：商業マネージャー・ピッチスクリプト（簡易単語バージョン））_
 
-**(Start: After the CEO's introduction)**
-_（開始：CEOの紹介後）_
+**(Start: After the CTO's part)**
+_（日本語訳：開始：CTOのパートの後）_
 
-Thank you, [CEO's Name]. Good morning, everyone. I'm [Your Name], the Commercial Manager at Craft Knot.
-_（日本語訳：[CEOの名前]さん、ありがとうございます。皆さん、おはようございます。私はCraftKnotの商業マネージャー、[あなたの名前]です。）_
+Thank you. I'm [Your Name], the Commercial Manager. So, who are our customers? As our CEO and CTO explained, we are building a bridge. This bridge connects two very special groups of people.
+_（日本語訳：ありがとうございます。商業マネージャーの[あなたの名前]です。では、私たちの顧客は誰なのでしょうか？CEOとCTOが説明したように、私たちは架け橋を築いています。この架け橋は、非常に特別な二つのグループの人々を結びつけます。）_
 
-As our CEO has outlined, Craft Knot is more than just an app; it's a bridge. A bridge connecting exceptional talent with passionate patrons. My role is to oversee the commercial success of this bridge, and today, I'll be explaining our core market, our unique value, and our strategy for growth.
-_（日本語訳：CEOが概説したように、Craft Knotは単なるアプリではなく、「架け橋」です。卓越した才能と情熱的な顧客をつなぐ架け橋です。私の役割は、この架け橋の商業的成功を監督することであり、本日は、当社のコアマーケット、独自の価値、そして成長戦略についてご説明します。）_
+On one side, we have **The Artisans**. Let's think about Mr. Tanaka again. He is 68 years old and lives in a small town. He makes amazing lacquerware bowls. Or perhaps Ms. Yamada, who creates stunning custom cosplay costumes. Their quality is world-class, but they have only a small shop, and very few tourists visit. He worries that his skills will die with him. He is our target user. We want to help the hundreds of thousands of artisans just like him all over the world, whether they craft pottery, custom kitchen knives, or intricate Japanese dolls. They have the skill, but they don't have the market.
+_（日本語訳：一方には、**職人**がいます。もう一度、田中さんのことを考えてみましょう。彼は68歳で、小さな町に住んでいます。彼は素晴らしい漆器の椀を作ります。あるいは、素晴らしいカスタムのコスプレ衣装を作る山田さんのような方もいるでしょう。彼らの品質は世界クラスですが、彼らには小さな店しかなく、訪れる観光客もごくわずかです。彼は自分の技術が自分と共に消えてしまうことを心配しています。彼こそが私たちのターゲットユーザーです。私たちは、陶器、カスタム包丁、あるいは精巧な日本人形を作るような、世界中にいる彼のような何十万人もの職人を助けたいのです。彼らには技術はありますが、市場がありません。）_
 
-I will cover three key areas:
-_（日本語訳：これからお話しする要点は三つです。）_
-1.  **Our Target Market:** Who are we connecting?
-    _（日本語訳：**ターゲット市場**：私たちは誰を繋げるのか？）_
-2.  **Our Compelling Value Proposition:** Why will they choose Craft Knot?
-    _（日本語訳：**強力な価値提案**：なぜ彼らはCraft Knotを選ぶのか？）_
-3.  **Our Market Expansion Strategy:** How will we grow?
-    _（日本語訳：**市場拡大戦略**：私たちはどのように成長するのか？）_
+On the other side, we have **The Enthusiasts**. Let's think of a person named Sarah. Sarah lives in a big city like London or New York. She has a good job and loves to decorate her home with beautiful, unique things. She is tired of buying the same things everyone else has from big stores. She wants something with a story, made by a real person. She also might be looking for a very special, unique present for someone they care about. She searches online, but she doesn't know which sellers are real and who to trust. Sarah is our other target user. There are millions of people like her who want to buy something special and are willing to pay for quality.
+_（日本語訳：もう一方には、**マニア**がいます。サラという人物を考えてみましょう。サラはロンドンやニューヨークのような大都市に住んでいます。彼女は良い仕事に就いており、自分の家を美しくユニークなもので飾るのが大好きです。彼女は、他の誰もが大手店舗で買っているのと同じものを買うのにうんざりしています。彼女は物語のある、本物の人間によって作られたものを欲しがっています。また、大切な人のために、非常に特別でユニークなプレゼントを探しているのかもしれません。彼女はオンラインで探しますが、どの販売者が本物で、誰を信頼してよいのか分かりません。サラが私たちのもう一人のターゲットユーザーです。彼女のように、特別なものを買いたがり、品質のためならお金を払うことを厭わない人々が何百万人もいます。）_
 
----
+Craft Knot is the special meeting place, the trusted marketplace, where Mr. Tanaka and Sarah can finally find each other.
+_（日本語訳：Craft Knotは、田中さんとサラがようやくお互いを見つけることができる、特別な出会いの場、信頼できる市場なのです。）_
 
-### 1. Our Target Market
-_（日本語訳：1. 私たちのターゲット市場）_
+So, you might ask, why will these people choose Craft Knot? The reason is simple: we provide clear, important benefits to both sides. No one else is doing this in one single platform.
+_（日本語訳：では、なぜこの人たちはCraft Knotを選ぶのでしょうか？理由は簡単です。私たちは双方に明確で重要な利益を提供するからです。これを一つのプラットフォームで実現しているところは他にありません。）_
 
-Our market is a two-sided ecosystem. On one side, we have **Artisans**, and on the other, **Enthusiasts**.
-_（日本語訳：私たちの市場は、二つの側面を持つエコシステムです。一方には「職人」が、もう一方には「マニア」がいます。）_
+Let's talk about the **Enthusiasts**, like Sarah. What do they get?
+First, they get **Trust**. Because we check every artisan, and because our payment system is safe, Sarah can buy with confidence.
+Second, they get **Access to rare talent**. Sarah can find amazing artisans she would never find on Google or social media. This is a curated, special community.
+Third, they get a **Special Experience**. Through the real-time updates, Sarah feels like she is part of the creative process. She is not just buying an object; she is getting a story.
+_（日本語訳：まず、サラのような**マニア**について話しましょう。彼らは何を得るのでしょうか？
+第一に、「**信頼**」を得ます。私たちがすべての職人をチェックし、支払いシステムが安全なので、サラは安心して購入できます。
+第二に、「**希少な才能へのアクセス**」を得ます。サラは、GoogleやSNSでは決して見つけられないような素晴らしい職人を見つけることができます。これは厳選された特別なコミュニティです。
+第三に、「**特別な体験**」を得ます。リアルタイム更新を通じて、サラは自分が創造的なプロセスの一部であるかのように感じます。彼女は単に物を買っているのではありません。物語を手に入れているのです。）_
 
-*   **The Artisans:** These are masters of their craft. Think of a luthier who specializes in intricate mother-of-pearl inlays for guitars, or a textile artist using centuries-old dyeing techniques. These individuals possess incredible skills but often lack the resources and platform to reach a wider, appreciative audience. They are struggling not from a lack of talent, but from a lack of access.
-    _（日本語訳：**職人**：彼らはその道の達人です。例えば、ギターに施す複雑な螺鈿細工を専門とする弦楽器製作者や、何世紀も前の染色技術を用いるテキスタイルアーティストを想像してみてください。彼らは素晴らしい技術を持っていますが、その価値を理解してくれるより広い顧客層にアプローチするためのリソースやプラットフォームが不足しています。彼らは才能の欠如ではなく、市場へのアクセスの欠如に苦しんでいます。）_
+Now, what about the **Artisans**, like Mr. Tanaka?
+First, he gets a **New Global Market**. Suddenly, his small town shop is open to the world. He can get orders from New York, London, or Singapore. This is a new source of income.
+Second, he gets **Easy Business Tools**. Mr. Tanaka is a craftsman, not a computer expert. Our app is very easy to use. The order templates, the progress tracker... all these tools help him manage his orders professionally, without any stress.
+Third, and most importantly, he gets **Financial Security**. He knows the money is safe in our escrow system before he starts his work. No more worrying about not getting paid. This lets him focus on what he loves: creating beautiful things.
+_（日本語訳：では、田中さんのような**職人**についてはどうでしょうか？
+第一に、彼は「**新しいグローバル市場**」を得ます。突然、彼の小さな町の店が世界に開かれます。彼はニューヨーク、ロンドン、シンガポールから注文を受けることができます。これは新しい収入源です。）_
+第二に、彼は「**簡単なビジネスツール**」を得ます。田中さんは職人であり、コンピューターの専門家ではありません。私たちのアプリは非常に使いやすいです。注文テンプレート、進捗追跡ツール…これらのツールはすべて、彼がストレスなく、プロとして注文を管理するのに役立ちます。
+第三に、そして最も重要なこととして、彼は「**経済的な安定**」を得ます。彼は仕事に取り掛かる前に、お金が私たちのエスクローシステムで安全であることを知っています。もう支払われない心配をする必要はありません。これにより、彼は自分が愛すること、つまり美しいものを作ることに集中できます。）_
 
-*   **The Enthusiasts:** This group includes collectors, hobbyists, and consumers with a deep appreciation for unique, high-quality, and authentic items. They are people who want a custom-decorated guitar that is truly one-of-a-kind. They seek authenticity and a story behind their products, but their biggest challenge is finding and verifying truly skilled, trustworthy artisans.
-    _（日本語訳：**マニア**：このグループには、ユニークで高品質、かつ本物のアイテムに深い愛着を持つコレクター、趣味人、そして消費者が含まれます。彼らは、世界に一つだけのカスタム装飾ギターを欲しがるような人々です。彼らは製品の背後にある本物であるという信頼性やストーリーを求めますが、本当に熟練し、信頼できる職人を見つけ出し、その実力を確かめることが最大の課題です。）_
+Craft Knot is not just a website. It is an ecosystem where everyone wins.
+_（日本語訳：Craft Knotは単なるウェブサイトではありません。誰もが利益を得る生態系（エコシステム）なのです。）_
 
-Craft Knot is the dedicated marketplace where these two groups can finally meet.
-_（日本語訳：Craft Knotは、これら二つのグループがようやく出会える、専門のマーケットプレイスです。）_
+So, how will we grow our company? We have a clear, step-by-step plan for growth.
+_（日本語訳：では、私たちはどのように会社を成長させていくのでしょうか？私たちには、段階的で明確な成長計画があります。）_
 
----
+**Step 1: Focus on Japan.** In the first one to two years, we will focus only on the Japanese market. We will partner with local governments and craft associations in famous craft regions like Kyoto, Kanazawa, and Tsubame-Sanjo. We will prove that our business model works here first. This will also help us make a real impact on the problem of succession in Japan's craft industries. We will build a strong user base and a great reputation.
+_（日本語訳：**ステップ1：日本に集中する。** 最初の1〜2年間は、日本市場のみに集中します。私たちは、京都、金沢、燕三条のような有名な工芸地域で、地方自治体や工芸協会と提携します。まずここで私たちのビジネスモデルが機能することを証明します。これはまた、日本の工芸産業における後継者問題に真のインパクトを与えるのにも役立ちます。私たちは強力なユーザー基盤と素晴らしい評判を築きます。）_
 
-### 2. Our Compelling Value Proposition (Why They Will Choose Us)
-_（日本語訳：2. 私たちの強力な価値提案（彼らが私たちを選ぶ理由））_
+**Step 2: Expand to the World.** In years three and four, after our success in Japan, we will begin to expand to other countries. We won't go everywhere at once. We will choose countries with strong craft traditions. For example, we could go to Italy for leather goods, or to Scandinavia for woodworking and furniture. We will hire local teams in these countries to help us connect with their best artisans.
+_（日本語訳：**ステップ2：世界へ拡大する。** 3年目と4年目には、日本での成功を基に、他の国々への拡大を開始します。一度にすべての国に行くわけではありません。私たちは、強力な工芸の伝統を持つ国を選びます。例えば、革製品ならイタリアへ、木工や家具ならスカンジナビアへ、といった具合です。これらの国々で現地のチームを雇い、最高の職人たちと繋がる手助けをしてもらいます。）_
 
-So, why will both artisans and enthusiasts choose Craft Knot? Because we provide unique, tangible benefits tailored to the specific needs of each group.
-_（日本語訳：では、なぜ職人とマニアの両方がCraft Knotを選ぶのでしょうか？ それは、私たちが各グループの特定のニーズに合わせた、ユニークで具体的な利益を提供するからです。）_
+**Step 3: Offer More Services.** In year five and beyond, we will grow by offering new types of services. For example, we can expand to new craft categories, like custom jewelry or glass art. We will also start a "B2B" service, which means "Business-to-Business". We can connect our artisans with businesses, like boutique hotels, high-end restaurants, or interior designers who want unique, handmade items for their spaces. This will open up a huge new market.
+_（日本語訳：**ステップ3：より多くのサービスを提供する。** 5年目以降は、新しい種類のサービスを提供することで成長します。例えば、カスタムジュエリーやガラスアートのような新しい工芸カテゴリーに拡大できます。また、「B2B」、つまり「企業対企業」のサービスも開始します。私たちの職人を、ブティックホテル、高級レストラン、あるいは自分たちの空間にユニークな手作りアイテムを求めるインテリアデザイナーのような企業と結びつけることができます。これは巨大な新しい市場を開拓することになります。）_
 
-**For the Enthusiasts (The Buyers):**
-_（日本語訳：マニア（買い手）にとっての価値：）_
+This clear, three-step plan will allow us to grow in a smart and steady way.
+_（日本語訳：この明確な3段階の計画により、私たちは賢く着実に成長することができます。）_
 
-*   **Trust and Authenticity:** We vet every artisan on our platform. Enthusiasts can be confident they are commissioning work from a true expert. We will facilitate an **Authenticity Certificate** for completed works, guaranteeing the origin and quality.
-    _（日本語訳：**信頼と本物であることの保証**：私たちはプラットフォーム上の全ての職人を精査します。マニアは真の専門家に仕事を依頼していると確信できます。完成した作品には「オーセンティシティ証明書（本物であることの証明書）」を発行し、その出自と品質を保証します。）_
-*   **Discovery and Access:** Our platform provides access to a curated community of niche, hard-to-find artisans. This is the only place to discover this level of specialized talent.
-    _（日本語訳：**発見とアクセス**：私たちのプラットフォームは、他では見つけにくいニッチな職人たちのコミュニティへのアクセスを提供します。このレベルの専門的な才能を発見できるのはここだけです。）_
-*   **A Seamless and Transparent Experience:** From initial contact to final delivery, we ensure the process is smooth. Our app will offer **Seamless Communication** tools and **Real-time Production Updates**, allowing the buyer to follow the creation process step-by-step, building a connection with the product and its maker.
-    _（日本語訳：**スムーズで透明な体験**：最初の連絡から最終的な納品まで、プロセスが円滑に進むことを保証します。私たちのアプリは「シームレスなコミュニケーション」ツールと「リアルタイムの製作状況更新」機能を提供し、買い手が製作過程を段階的に追うことで、製品とその作り手との繋がりを深めることができます。）_
-
-**For the Artisans (The Producers):**
-_（日本語訳：職人（作り手）にとっての価値：）_
-
-*   **A Gateway to New Markets:** We provide a vital sales channel, connecting artisans to a global audience of enthusiasts who are actively seeking their specific skills.
-    _（日本語訳：**新しい市場への入り口**：私たちは重要な販路を提供し、職人を彼らの特定の技術を積極的に求める世界中のマニアと結びつけます。）_
-*   **Powerful Management Tools:** We understand that artisans are creators, not administrators. We provide a **Standardized Order Template**, **Progress Tracking**, and portfolio management tools. This allows them to focus on what they do best: creating.
-    _（日本語訳：**強力な管理ツール**：職人は管理者ではなく創造者であると私たちは理解しています。私たちは「標準化された注文テンプレート」、「進捗追跡」、ポートフォリオ管理ツールを提供します。これにより、彼らは最も得意なこと、つまり創作活動に集中できます。）_
-*   **Financial Security:** Our **Guaranteed Payment System** protects artisans, ensuring they are paid securely and on time for their work, which minimizes financial risk and builds a stable business environment.
-    _（日本語訳：**経済的な安定**：私たちの「保証付き支払いシステム」は職人を保護し、彼らが仕事に対して安全かつ時間通りに支払いを受けられるようにします。これにより、経済的リスクを最小限に抑え、安定したビジネス環境を構築します。）_
-
----
-
-### 3. Our Market Expansion Strategy
-_（日本語訳：3. 私たちの市場拡大戦略）_
-
-We have a clear, phased plan for growth.
-_（日本語訳：私たちには、段階的で明確な成長計画があります。）_
-
-*   **Phase 1: Domestic Focus & Niche Community Penetration (Year 1-2):**
-    We will begin in Japan. Our initial focus will be on addressing the critical succession problem in traditional Japanese crafts. By creating new demand, we offer a tangible solution to preserve this cultural heritage. We will target specific, highly-engaged communities, such as custom guitar collectors and interior designers, to build a strong initial user base and prove our model.
-    _（日本語訳：**フェーズ1：国内集中とニッチコミュニティへの浸透（1〜2年目）**：まず日本から開始します。最初の焦点は、日本の伝統工芸が直面する深刻な後継者問題に取り組むことです。新たな需要を創出することで、この文化遺産を保存するための具体的な解決策を提供します。カスタムギターのコレクターやインテリアデザイナーなど、特定の熱心なコミュニティをターゲットにし、強力な初期ユーザーベースを構築して私たちのビジネスモデルを証明します。）_
-
-*   **Phase 2: Geographic Expansion (Year 3-4):**
-    With a successful model in Japan, we will expand internationally. We'll target countries with rich craft traditions, such as Italy for leather goods or Scandinavia for woodworking. Our platform and marketing will be localized for each new region.
-    _（日本語訳：**フェーズ2：地理的拡大（3〜4年目）**：日本での成功モデルを基に、国際的に拡大します。革製品で知られるイタリアや木工で知られるスカンジナビアなど、豊かな工芸の伝統を持つ国々をターゲットにします。プラットフォームとマーケティングは、各新地域に合わせてローカライズします。）_
-
-*   **Phase 3: Service Diversification (Year 5+):**
-    Looking forward, we will expand into new craft categories and explore B2B (Business-to-Business) opportunities, connecting our artisans with boutique hotels, architectural firms, and other businesses seeking unique, high-quality commissioned works.
-    _（日本語訳：**フェーズ3：サービスの多様化（5年目以降）**：将来的には、新しい工芸カテゴリに拡大し、B2B（企業間取引）の機会を探ります。ブティックホテルや建築事務所など、ユニークで高品質な特注品を求める企業と私たちの職人を結びつけます。）_
-
-By connecting an underserved supply with an unmet demand, we are creating a new, vibrant market. We are not just building a business; we are fostering a global community dedicated to preserving and celebrating human skill and creativity.
-_（日本語訳：十分なサービスを受けていない供給（職人）と、満たされていない需要（マニア）を結びつけることで、私たちは新しい活気ある市場を創造しています。私たちは単にビジネスを構築しているだけではありません。人間の技術と創造性を保存し、称賛するためのグローバルなコミュニティを育成しているのです。）_
-
-Thank you. Now, I will pass it over to our CTO, [CTO's Name], who will explain the technology that makes this all possible.
-_（日本語訳：ありがとうございました。では次に、これを全て可能にする技術について、私たちのCTO、[CTOの名前]に引き継ぎます。）_
+**(Hand-off to CEO for closing)**
+_（日本語訳：CEOのクロージングへ引き継ぎ）_

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commercial Manager Pitch.md",
+                "file": "Artisan/Management tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commercial Manager Pitch"
+              "title": "Management tools"
             }
           }
         ]
@@ -186,12 +186,14 @@
   },
   "active": "0ef9719df584c621",
   "lastOpenFiles": [
-    "README.md",
-    "CTO Pitch.md",
+    "Artisan/guaranteed payment system.md",
     "CEO Pitch.md",
+    "craft knot.md",
+    "CTO Pitch.md",
+    "Commercial Manager Pitch.md",
+    "README.md",
     "無題のファイル 1.base",
     "無題のファイル.base",
-    "craft knot.md",
     "artisans.md",
     "enthusiasts.md",
     "enthusiants/trust.md",
@@ -199,7 +201,6 @@
     "Artisan/Portfolio showcase.md",
     "Artisan/progress tracking.md",
     "Artisan/Standardization Order Template.md",
-    "Artisan/guaranteed payment system.md",
     "enthusiants/Real-time Production Updates.md",
     "enthusiants/Seamless Communication.md",
     "enthusiants/Niche Community Access.md",
